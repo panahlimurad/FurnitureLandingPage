@@ -1,5 +1,6 @@
 .productSection{
     width: 50%;
+    height: 600px;
     display: flex;
     flex-wrap: wrap;
     gap: 20px;

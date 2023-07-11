@@ -9,7 +9,7 @@ export class AboutShop extends React.Component{
                 <div>
                     <h1>Furniture</h1>
                     <p>Landing Page</p>
-                    <button>ORDER</button>
+                    <button onClick={this.props.isShow}>ORDER</button>
                 </div>
             </div>
         )
